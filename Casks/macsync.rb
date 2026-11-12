@@ -1,6 +1,6 @@
 cask "macsync" do
   version "0.8.18"
-  sha256 "e220bf876c2c828cf5fcc0b0df28258f4b59e535ff452813d1aced80ce991025"
+  sha256 "5e0537bee891c5d61e25ba53a66783976a18c0d64e3214ce4acac45bd64823c8"
 
   url "https://github.com/onlymoein/macsync/releases/download/v#{version}/MacSync-#{version}.zip"
   name "MacSync"
